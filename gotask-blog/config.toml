@@ -1,0 +1,4 @@
+baseURL = "http://gotask.io/"
+languageCode = "en-us"
+title = "GoTask"
+theme = "hugo-fresh"
